@@ -73,7 +73,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **[alinea_laundryyyy](https://github.com/Bagaspermana0/alinea_laundryyyy)** | Fullstack Laundry Service Management Platform | `React` `Node.js` `Express` `PostgreSQL` `Supabase` | [View Project](https://github.com/Bagaspermana0/alinea_laundryyyy) |
+| **[alinea_laundry](https://github.com/Bagaspermana0/alinea_laundry)** | Fullstack Laundry Service Management Platform | `React` `Node.js` `Express` `PostgreSQL` `Supabase` | [View Project](https://github.com/Bagaspermana0/alinea_laundry) |
 | **[bintangprabot](https://github.com/Bagaspermana0/bintangprabot)** | E-commerce / POS Platform for Home Appliances | `React` `PHP Laravel` `MySQL` | [View Project](https://github.com/Bagaspermana0/bintangprabot) |
 | **[ROGORISE](https://github.com/Bagaspermana0/ROGORISE)** | Modern Web Application Frontend | `React 19` `Vite` `JavaScript` | [View Project](https://github.com/Bagaspermana0/ROGORISE) |
 | **[SPK_EV](https://github.com/Bagaspermana0/SPK_EV)** | Decision Support System (SPK) for Electric Vehicles | `Python` `Streamlit` `Pandas` `Scikit-Learn` | [View Project](https://github.com/Bagaspermana0/SPK_EV) |
