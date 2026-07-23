@@ -1,9 +1,14 @@
 <div align="center">
 
-<!-- Typing Header Animation -->
+<!-- Header Waving Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7928CA,100:FF0080&height=200&section=header&text=Bagas%20Permana%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Information%20Systems%20Student%20@%20UNNES%20%7C%20Fullstack%20Developer&subtextFontSize=18" width="100%" alt="Header Banner" />
+
+<!-- Typing Subtitle -->
 <a href="https://github.com/Bagaspermana0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F5FF&center=true&vcenter=true&random=false&width=650&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Bagas+Permana+Putra;Information+Systems+Student+%40+UNNES;Fullstack+Web+%26+Software+Developer;Building+Cool+Digital+Solutions+%F0%9F%9A%80" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vcenter=true&random=false&width=650&height=45&lines=Fullstack+Web+%26+Software+Developer;React+%2B+Node.js+%2B+Laravel+%2B+Python;Building+Cool+Digital+Solutions+%F0%9F%9A%80" alt="Typing Header" />
 </a>
+
+<br/>
 
 <p align="center">
   <a href="https://bagaspermanaa.web.id"><img src="https://img.shields.io/badge/🌐_Website-bagaspermanaa.web.id-00F5FF?style=for-the-badge&logoColor=white" /></a>
@@ -11,13 +16,6 @@
   <a href="https://instagram.com/bagasszzp"><img src="https://img.shields.io/badge/Instagram-@bagasszzp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:bagaspermana@students.unnes.ac.id"><img src="https://img.shields.io/badge/Email-bagaspermana@unnes-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-<!-- Animated Profile Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bagaspermana0&theme=tokyonight&no-bg=true&column=6&margin-w=10" alt="Bagaspermana0 Trophies" />
-</a>
 
 </div>
 
@@ -84,13 +82,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity Graph
 
 <div align="center">
 
+<a href="https://github.com/Bagaspermana0">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bagaspermana0&theme=tokyo-night&hide_border=true&area=true" alt="Bagaspermana0 Activity Graph" width="100%" />
+</a>
+
+<br/><br/>
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstme-top-langs-catppuccin.vercel.app/api?username=Bagaspermana0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bagaspermana0 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstme-top-langs-catppuccin.vercel.app/api/top-langs/?username=Bagaspermana0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bagaspermana0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bagaspermana0 GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagaspermana0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
