@@ -78,7 +78,6 @@
 | **[ROGORISE](https://github.com/Bagaspermana0/ROGORISE)** | Modern Web Application Frontend | `React 19` `Vite` `JavaScript` | [View Project](https://github.com/Bagaspermana0/ROGORISE) |
 | **[SPK_EV](https://github.com/Bagaspermana0/SPK_EV)** | Decision Support System (SPK) for Electric Vehicles | `Python` `Streamlit` `Pandas` `Scikit-Learn` | [View Project](https://github.com/Bagaspermana0/SPK_EV) |
 | **[finance](https://github.com/Bagaspermana0/finance)** | Financial Automation & Analytics Web Platform | `Next.js` `Python` `PNPM` | [View Project](https://github.com/Bagaspermana0/finance) |
-| **[ewallet-clustering](https://github.com/Bagaspermana0/ewallet-clustering)** | Data Science & E-Wallet Analytics Clustering | `Python` `Data Science` `K-Means` | [View Project](https://github.com/Bagaspermana0/ewallet-clustering) |
 
 ---
 
