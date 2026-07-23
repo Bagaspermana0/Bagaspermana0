@@ -82,7 +82,7 @@
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Analytics & Profile Summary
 
 <div align="center">
 
@@ -93,12 +93,17 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bagaspermana0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bagaspermana0 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagaspermana0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bagaspermana0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bagaspermana0 GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bagaspermana0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bagaspermana0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bagaspermana0&theme=tokyonight" alt="Repos Per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bagaspermana0&theme=tokyonight" alt="Most Commit Language" width="48%" />
 </p>
 
 </div>
